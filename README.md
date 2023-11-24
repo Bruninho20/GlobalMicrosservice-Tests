@@ -3,7 +3,7 @@
 Bem vindo(a) ao repositório de testes da aplicação da GlobalSolution.
 
 # Instruções para rodar os testes
-Para rodar o teste de performance:
+Para rodar o teste de performance, entre na pasta de teste e rode esse comando:
 
 $ K6 run script.js
 Teste simulando 100 acessos durante 5 minutos:
@@ -24,4 +24,5 @@ Teste do endpoint /indicador/{indicadorKey}
 
 <img width="652" alt="image" src="https://github.com/Bruninho20/GlobalMicrosservice-Tests/assets/99261881/44408d72-2cbc-4dd8-9c16-159350d82951">
 
+Pronto, os testes foram efetuados com sucesso!
 
