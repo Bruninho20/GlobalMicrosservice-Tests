@@ -11,7 +11,7 @@ Teste simulando 100 acessos durante 5 minutos:
 
 <img width="480" alt="image" src="https://github.com/Bruninho20/GlobalMicrosservice-Tests/assets/99261881/2deee7b8-d9ec-488f-8abb-281941e4abd4">
 
-Para rodar o teste de integração:
+Para rodar o teste de integração, entre na pasta de teste (no caso "integracao") e rode este comando:
 
 $ npm run test
 
