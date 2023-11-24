@@ -6,6 +6,7 @@ Bem vindo(a) ao repositório de testes da aplicação da GlobalSolution.
 Para rodar o teste de performance, entre na pasta de teste e rode esse comando:
 
 $ K6 run script.js
+
 Teste simulando 100 acessos durante 5 minutos:
 
 <img width="480" alt="image" src="https://github.com/Bruninho20/GlobalMicrosservice-Tests/assets/99261881/2deee7b8-d9ec-488f-8abb-281941e4abd4">
