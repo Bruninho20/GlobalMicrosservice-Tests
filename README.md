@@ -2,6 +2,13 @@
 
 Bem vindo(a) ao repositório de testes da aplicação da GlobalSolution.
 
+# Integrantes
+
+- Bruno Henrique Ferraz da Silva - RM 87740
+- João Henrique Pinto - RM 86913
+- João Pedro Meirelles - RM 84775
+  
+
 # Instruções para rodar os testes
 Para rodar o teste de performance, entre na pasta de teste (no caso "cargas") e rode esse comando:
 
