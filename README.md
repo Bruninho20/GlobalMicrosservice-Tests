@@ -3,7 +3,7 @@
 Bem vindo(a) ao repositório de testes da aplicação da GlobalSolution.
 
 # Instruções para rodar os testes
-Para rodar o teste de performance, entre na pasta de teste e rode esse comando:
+Para rodar o teste de performance, entre na pasta de teste (no caso "cargas") e rode esse comando:
 
 $ K6 run script.js
 
